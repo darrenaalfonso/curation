@@ -1,3 +1,11 @@
 title: Curation.LA
 
+description: >
+  My thoughts about software, tech, LA.
+
 theme: minima
+
+minima:
+  social_links:
+    twitter: darrenaalfonso
+    
