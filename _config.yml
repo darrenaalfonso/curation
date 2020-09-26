@@ -3,6 +3,8 @@ title: Curation.LA
 description: >
   My thoughts about software, tech, LA.
 
+show_excerpts: true
+
 minima:
   social_links:
     twitter: darrenaalfonso
