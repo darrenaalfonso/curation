@@ -13,3 +13,6 @@ minima:
 twitter_username: darrenaalfonso
 
 theme: minima
+
+plugins:
+  - jekyll-feed
