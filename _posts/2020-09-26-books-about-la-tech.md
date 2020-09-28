@@ -11,4 +11,27 @@ that I'd be able to find a job.  Sites like [Built in LA](https://builtinla.com)
 While websites and blogs are great for quick takes, I enjoy getting in depth.  Plus I like reading before going to bed ☺️.
 So here are some worthwhile books about LA tech.
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=curationla-20&language=en_US&marketplace=amazon&region=US&placement=B00UR7A074&asins=B00UR7A074&linkId=a6de90f275d47fbaed23fe039a31482e&show_border=true&link_opens_in_new_window=true"></iframe>
+<a href="https://www.amazon.com/gp/product/B00UR7A074/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li2&tag=curationla-20&linkId=b910d67b2521148cb0bad158121cd85c&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00UR7A074&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=curationla-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=curationla-20&language=en_US&l=li2&o=1&a=B00UR7A074" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+[Chronicle of a Startup Town: Los Angeles](https://amzn.to/2HCdVvL)
+
+This is the first book you should read.  It a few years old now, but gives a great introduction onto the history of LA tech.
+
+
+<a href="https://www.amazon.com/gp/product/B001VT3L3C/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li2&tag=curationla-20&linkId=ab3a9f799f4b03d1adc245574bc55c3f&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001VT3L3C&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=curationla-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=curationla-20&language=en_US&l=li2&o=1&a=B001VT3L3C" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+[Stealing MySpace: The Battle to Control the Most Popular Website in America](https://amzn.to/343aZjk)
+
+A great book that provides insight into:
+- how unregulated the internet was in the early 2000s
+- the technical issues that plagued early social networks
+- how companies in LA that were "tech" still tried to be "media" companies
+
+<a href="https://www.amazon.com/gp/product/B073Z7XL5D/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li2&tag=curationla-20&linkId=5272279fe76e1ff510f7eb9ad5dc3b75&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B073Z7XL5D&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=curationla-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=curationla-20&language=en_US&l=li2&o=1&a=B073Z7XL5D" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+[How to Turn Down a Billion Dollars: The Snapchat Story](https://amzn.to/346JgOv)
+
+The first half does a really thorough job of describing Evan Spiegel's time at Stanford and the founding of Snapchat.
+The second half is worth skimming since most of it is describing feature additions to the Snapchat app.
+Facebook's failed attempts at purchasing, then copying Snapchat are highlighted in an entertainingly negative way.
+
