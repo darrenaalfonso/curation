@@ -31,7 +31,19 @@ A great book that provides insight into:
 
 [How to Turn Down a Billion Dollars: The Snapchat Story](https://amzn.to/346JgOv)
 
-The first half does a really thorough job of describing Evan Spiegel's time at Stanford and the founding of Snapchat.
+The first half describes Evan Spiegel's time at Stanford and the founding of Snapchat.  Great insight and goes in depth into the Reggie Brown issue.
 The second half is worth skimming since most of it is describing feature additions to the Snapchat app.
 Facebook's failed attempts at purchasing, then copying Snapchat are highlighted in an entertainingly negative way.
 
+<a href="https://www.amazon.com/gp/product/B07PF6XTD8/ref=as_li_ss_il?ie=UTF8&psc=1&linkCode=li2&tag=curationla-20&linkId=3784ba03a67419f5174033d131fd3502&language=en_US" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07PF6XTD8&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=curationla-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=curationla-20&language=en_US&l=li2&o=1&a=B07PF6XTD8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+[The Ride of a Lifetime: Lessons Learned from 15 Years as CEO of the Walt Disney Company](https://amzn.to/2HwG6Mp)
+
+Not really related to LA tech, but a great book overall.  It starts out pretty slow, but really picks up when Bob Iger becomes CEO.
+The retelling of the acquisitions of Marvel and Pixar, emphasize building and repairing trust.  Has some hilarious anecdotes about Steve Jobs.
+
+I'm starting to read: [Powerhouse: The Untold Story of Hollywood's Creative Artists Agency](https://amzn.to/348hyB2)
+I'm fascinated by the inner workings of show business the below-the-line, behind the scenes details.
+I'll probably create a separate post about entertainment industry books I've read.
+
+But for now, don't forget to like, subscribe, and hit the bell. 🤙
