@@ -15,6 +15,8 @@ For the price of my studio in New York, I could have a one-bedroom near the beac
 
 BUT, New Yorkers and San Franciscans with the freedom to permanently work remotely need to consider another city: **San Diego.**
 
+Outside of the obvious benefits (weather, beaches, proximity to amusement parks, a major airport, etc.), San Diego tech scene is ascending.
+
 > San Diego is becoming an appealing city for tech companies and workers due to its lower cost of living.
 
 San Diego is [one of six emerging tech cities](https://www.cio.com/article/3570227/6-hot-emerging-tech-hubs-for-it-job-seekers.html) according to cio.com.
