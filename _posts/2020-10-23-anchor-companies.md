@@ -24,17 +24,22 @@ Similarly, founders as the CEO.  Google, Apple, and Microsoft have each had mult
 
 After filtering out the list, here are my "requirements to be an anchor" (This list is not scientific.  I tried to be as objective as possible, but let's face it, this is still subjective and still just my opinion.):
 
-<h4>1. Be public.</h4>  Public companies make headlines.  They signal to startup founders, "If {anchor company} was able to thrive in our city, you can too."  
-To a lesser extent, public companies grant RSUs that often attract more tech talent to the company and, ipso facto, the region.
+<h4>1. Be headquartered in the city you anchor.</h4>  Even though Google has an office in Seattle [right across from Amazon](https://www.geekwire.com/2019/first-look-inside-google-clouds-new-seattle-campus-right-across-street-amazon/#:~:text=Google%20Cloud%20on%20Thursday%20officially,%2C%20Android%2C%20Maps%20and%20Chrome.),
+but that doesn't mean Google anchors Seattle.  Sidenote, one of my pet peeves are proponents of a city saying "Google is here, Apple is here" just because those companies have satellite ofices in the city.
 
-<h4>2. Have A LOT of employees.</h4>  At least 10,000.  The more employees you have, the more "tech" becomes part of your city.  The more employees you have, the more likely one of them starts a company in the same city.
+<h4>2. Be public.</h4>  Public companies make headlines.  They signal to startup founders, "If {anchor company} was able to thrive in our city, you can too."  
+To a lesser extent, public companies grant RSUs that often attract more tech talent to the company and, ipso facto, the region.
 
 <h4>3. Be in the Fortune 500.</h4>  If the company doesn't make enough revenue, it can't grow.
 
-<h4>4. Be headquartered in the city you anchor.</h4>  Even though Google has an office in Seattle [right across from Amazon](https://www.geekwire.com/2019/first-look-inside-google-clouds-new-seattle-campus-right-across-street-amazon/#:~:text=Google%20Cloud%20on%20Thursday%20officially,%2C%20Android%2C%20Maps%20and%20Chrome.),
-but that doesn't mean Google anchors Seattle.  Sidenote, one of my pet peeves are proponents of a city saying "Google is here, Apple is here" just because those companies have satellite ofices in the city.
+<h4>4. Have A LOT of employees.</h4>  At least 10,000.  The more employees you have, the more "tech" becomes part of your city.  The more employees you have, the more likely one of them starts a company in the same city.
 
-<h4>5. Be primarily software oriented.</h4>  This is the most subjective.  ["Every company is a tech company"](https://www.wsj.com/articles/every-company-is-now-a-tech-company-1543901207)  could be interpreted as "every company is a software company."
-  But Disney is an anchor company of LA, no doubt.  But it's not a tech anchor because it's primary business is entertainment.
+<h4>5. Be a software company.</h4>  This is the most subjective requirement.  While some believe ["every company is a tech company"](https://www.wsj.com/articles/every-company-is-now-a-tech-company-1543901207)
+that doesn't mean every company is a **software** company.  Why does being a software company matter?  It doesn't really, but this is my list 😏
+
+
+
+
+But Disney is an anchor company of LA, no doubt.  But it's not a tech anchor because it's primary business is entertainment.
 
 🤙
