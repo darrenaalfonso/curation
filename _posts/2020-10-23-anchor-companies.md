@@ -1,5 +1,5 @@
 ---
-title: "LA's Tech Anchor"
+title: "What is a Base Company?"
 ---
 
 Most people are familiar with [anchor stores](https://en.wikipedia.org/wiki/Anchor_tenant) within a shopping center.
@@ -9,11 +9,11 @@ Macy's, Nordstrom, Bloomingdales...they get people into the mall and while you'r
 What about [tent-pole movies](https://en.wikipedia.org/wiki/Tent-pole_(entertainment))?  
 > "A tentpole movie, for example, is a film that is expected to support a wide range of ancillary tie-in products such as toys and games"
 
-When it comes to tech, anchor companies solidify the city/region's tech and startup and become a foundation for future growth.
-Buoyed by strong investment, competitive salaries, IPOs, and liquidation events, anchor companies and their employee diaspora go on to create angel funds, VC/PE firms, and startups
-This virtuous cycle creates a prosperous ecosystem.
+When it comes to tech, Base companies solidify the city/region's tech and startup and become a foundation for future growth.
+Buoyed by strong investment, competitive salaries, IPOs, and liquidation events, Base companies and their employee diaspora go on to create angel funds, VC/PE firms, and startups
+This virtuous cycle creates a prosperous ecosystem.  I use the word Base, because of [base classes](https://www.techopedia.com/definition/26896/base-class).
 
-There are anchor companies that are undeniable.  Facebook, Apple, and Google anchor Silicon Valley.  Amazon and Microsoft anchor Seattle.
+There are Base companies that are undeniable.  Facebook, Apple, and Google are the Bases Silicon Valley.  Amazon and Microsoft anchor Seattle.
 There are others on the fringes -- is Netflix an anchor company?  Is Uber?  What makes an anchor company an anchor company?
 
 To answer this question, I sought to find the common characteristics between the "undeniable" anchors I previously mentioned.
@@ -36,10 +36,5 @@ To a lesser extent, public companies grant RSUs that often attract more tech tal
 
 <h4>5. Be a software company.</h4>  This is the most subjective requirement.  While some believe ["every company is a tech company"](https://www.wsj.com/articles/every-company-is-now-a-tech-company-1543901207)
 that doesn't mean every company is a **software** company.  Why does being a software company matter?  It doesn't really, but this is my list 😏
-
-
-
-
-But Disney is an anchor company of LA, no doubt.  But it's not a tech anchor because it's primary business is entertainment.
-
-🤙
+<br/><br/>
+So...who is LA's anchor company?  You'll find out in my next post.  🤙
