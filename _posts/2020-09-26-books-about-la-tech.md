@@ -47,3 +47,16 @@ I'm fascinated by the inner workings of show business the below-the-line, behind
 I'll probably create a separate post about entertainment industry books I've read.
 
 But for now, don't forget to like, subscribe, and hit the bell. 🤙
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="https://amzn.to/3rzucEj">product</a>
